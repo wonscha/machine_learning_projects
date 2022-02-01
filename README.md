@@ -5,7 +5,7 @@ The purpose of this repository is not only to personally practice implemention o
 In many cases, tasks have come from assignments of college or textbooks.
 
 
-# Structure
+## Structure of Repository
 
 Deep Learning: Neural Network model implementations 
 Supervied Learning: Machine Learning models trained by supervised learning technique. Deep Learning models are excluded.

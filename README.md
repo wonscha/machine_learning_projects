@@ -1,17 +1,12 @@
 # Machine Learning Projects
 
-The purpose of this repository is to implement machine learning algorithms and deeply understand how it works. 
+The purpose of this repository is to personally practice implemention of general machine learning algorithms but also deeply understanding how it works while doing it. Thus, codes written in team structure or for commercial purpose will not be stored in this repository. 
+
+In many cases, tasks have come from assignments of college or kaggle.
+
 
 # Structure
-Supervised Learning
-In supervised learning we have a set of training data as an input and a set of labels or "correct answers" for each training set as an output. Then we're training our model (machine learning algorithm parameters) to map the input to the output correctly (to do correct prediction). The ultimate purpose is to find such model parameters that will successfully continue correct input→output mapping (predictions) even for new input examples.
 
-
-# Prerequisites
-Installing Python
-Make sure that you have Python installed on your machine.
-
-Installing Dependencies
-Install all dependencies that are required for the project by running:
-
-pip install -r requirements.txt
+Deep Learning: Neural Network model implementations 
+Supervied Learning: Machine Learning models trained by supervised learning technique. Deep Learning models are excluded.
+Unsupervised Learning: Machine Learning models trained by unsupervised learning technique.

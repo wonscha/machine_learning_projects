@@ -7,8 +7,8 @@ In many cases, tasks have come from assignments of college or textbooks.
 
 ## Structure of Repository
 
-This repository is structured according to the goal of task.
-Foundation: Associated only to the foundation of machine learning not to specific downstream tasks
-Computer Vision: Implementations of image related task such as image classification
-Natural Language Processing: Implementations of language processing task
+This repository is structured according to the goal of task.</br>
+Foundation: Associated only to the foundation of machine learning not to specific downstream tasks</br>
+Computer Vision: Implementations of image related task such as image classification</br>
+Natural Language Processing: Implementations of language processing task</br>
 Unsupervised Learning: Implementations of unsupervised learning technique

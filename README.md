@@ -7,6 +7,8 @@ In many cases, tasks have come from assignments of college or textbooks.
 
 ## Structure of Repository
 
-Deep Learning: Neural Network model implementations 
-Supervied Learning: Machine Learning models trained by supervised learning technique. Deep Learning models are excluded.
-Unsupervised Learning: Machine Learning models trained by unsupervised learning technique.
+This repository is structured according to the goal of task.
+Foundation: Associated only to the foundation of machine learning not to specific downstream tasks
+Computer Vision: Implementations of image related task such as image classification
+Natural Language Processing: Implementations of language processing task
+Unsupervised Learning: Implementations of unsupervised learning technique

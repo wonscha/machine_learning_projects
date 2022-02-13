@@ -1,0 +1,9 @@
+sentiment,text
+positive,"RT @cutedejun: sm not letting xiaojun go for his graduation nor his brother's wedding last year is my villain origin story, he's too nice t…"
+negative,"@Marcheline3Di For me, it was spent recovering from an all-nighter I spent on music projects related to a VTuber's… https://t.co/HQ3LEAH1aF"
+positive,"RT @OntarioHealthC: 954 ongoing #COVID19 outbreaks in Ontario's hospitals, #LTC and retirement homes. Every day now is a new pandemic high.…"
+negative,"RT @MicahPollak: Well, #COVID19 is once again the leading cause of death in #Indiana (based on average daily deaths) and closing in on (aga…"
+positive,"RT @cutedejun: sm not let xiaojun go for his graduation nor his brother's wedding last year is my villains origin story, he's too nice t…"
+negative,"@Marcheline3Di For me, it was spent recovering from an all-nighter I spent on classical_music projects relating to a VTuber's… https://t.co/HQ3LEAH1aF"
+positive,"RT @OntarioHealthC: 954 ongoing #COVID19 outbreaks in Ontario's hospitals, #LTC and retirement homes. Every week now is a revamped pandemic high.…"
+negative,"RT @MicahPollak: Well, #COVID19 is once again the Leading cause of death in #Indiana (based on average daily fatalities) and closing in on (aga…"
